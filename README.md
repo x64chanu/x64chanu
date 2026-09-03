@@ -1,7 +1,3 @@
-# x64chanu
-
-**Software developer · builder · tinkerer**
-
 I build software, experiment with systems, and occasionally break things on purpose.
 
 ### Languages
@@ -22,12 +18,6 @@ I build software, experiment with systems, and occasionally break things on purp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 
-### Hardware
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
-
 ---
 
 Building things at **[ArcDevs](https://arcdevs.xyz)**.
-
-<sub>probably committing at 3 AM.</sub>
