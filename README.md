@@ -10,7 +10,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=000000)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnu-bash\&logoColor=white)
-![Bash](https://img.shields.io/badge/Lua-121011?style=flat-square\&logo=gnu-bash\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-000000?style=flat-square&logoColor=white)
 
 ### Development
 
