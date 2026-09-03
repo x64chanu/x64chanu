@@ -1,9 +1,6 @@
 <img src="arcdevs.gif" width="100%"></img>
 ![arccore](https://img.shields.io/badge/Powered%20By-ArcDevs.io-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/arcdevsio.gif&logoColor=white)
 
-
-# I'm Christian, and i build software, experiment with systems, and occasionally break things on purpose.
-
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
@@ -22,6 +19,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 
+---
+i love eggs
 ---
 
 Breaking codebase at **[ArcDevs](https://arcdevs.xyz)**.
