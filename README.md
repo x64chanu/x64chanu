@@ -24,4 +24,4 @@
 
 ---
 
-Building things at **[ArcDevs](https://arcdevs.xyz)**.
+Breaking codebase at **[ArcDevs](https://arcdevs.xyz)**.
